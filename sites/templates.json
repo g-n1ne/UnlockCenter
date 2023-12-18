@@ -1,0 +1,22 @@
+[
+  {
+    "name": "iCloud Latest",
+    "choice": "1",
+    "folder": "icloud_latest",
+    "redirect": "https://icloud.com",
+    "mask": "https://get-premium-membership-free"
+  },
+  {
+    "name": "Xiaomi",
+    "choice": "2",
+    "folder": "xiaomi",
+    "redirect": "https://xiaomi.com",
+    "mask": "https://get-premium-membership-free"
+  },
+  {
+    "name": "Custom",
+    "choice": "3",
+    "folder": "custom",
+    "mask": "custom"
+  }
+]
