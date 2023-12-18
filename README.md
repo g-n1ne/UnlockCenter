@@ -10,9 +10,8 @@
   <img src="https://hits.dwyl.com/g-n1ne/UnlockCenter.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-CardFactory-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Made%20in-UK-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Author-g_n1ne-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-No-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
@@ -208,13 +207,13 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-CardFactory-purple?style=for-the-badge&logo=github)](https://github.com/g_n1ne)
+- [![Github](https://img.shields.io/badge/Github-g_n1ne-purple?style=for-the-badge&logo=github)](https://github.com/g_n1ne)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-CardFactory-green?style=for-the-badge&logo=gmail)](mailto:Crdfctry@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-g_n1ne-green?style=for-the-badge&logo=gmail)](mailto:Crdfctry@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-CardFactory-blue?style=for-the-badge&logo=facebook)](https://facebook.com/CardFactory)
+- [![Facebook](https://img.shields.io/badge/Facebook-g_n1ne-blue?style=for-the-badge&logo=facebook)](https://facebook.com/g_n1ne)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-CardFactory-orange?style=for-the-badge&logo=messenger)](https://m.me/CardFactory)
+- [![Messenger](https://img.shields.io/badge/Messenger-g_n1ne-orange?style=for-the-badge&logo=messenger)](https://m.me/g_n1ne)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-CardFactory-indigo?style=for-the-badge&logo=telegram)](https://t.me/g_n1ne)
+- [![Telegram](https://img.shields.io/badge/Telegram-g_n1ne-indigo?style=for-the-badge&logo=telegram)](https://t.me/g_n1ne)
 
